@@ -43,4 +43,4 @@ The dataset contains information about Netflix content including:
 - Focus on popular genres while maintaining content diversity
 
 ## Author
-Pranav
+Vaibhav MS
